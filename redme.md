@@ -1,5 +1,7 @@
 # Guia de Instalação e Configuração do Git no Windows
-## Link do Tutorial   <a href="https://youtu.be/mmcOw2ynWEs?si=vEEuhvSQm24SjBrg" target="_blank"></a>
+## Link do Tutorial   
+
+<a href="https://youtu.be/mmcOw2ynWEs?si=vEEuhvSQm24SjBrg" target="_blank">Link do video</a>
 
 Este documento descreve o passo a passo para instalar o **Git for Windows**, configurar suas credenciais, gerar chaves SSH e conectar-se ao GitHub (ou GitLab, Bitbucket etc.).
 
